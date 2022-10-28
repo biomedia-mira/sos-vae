@@ -3,6 +3,20 @@
 This repository contains the code for the paper
 > J. Langley, M. Monteiro, C, Jones, N. Pawlowski, B. Glocker. _Structured Uncertainty in the Observation Space of Variational Autoencoders_. Transactions on Machine Learning Research. 2022 [[OpenReview]](https://openreview.net/forum?id=cxp7n9q5c4)
 
+## Showcase
+
+### CELEBA Results
+
+![CELEBA Results](./showcase_images/celeba_results.png)
+
+### UKBB Results
+
+![UKBB Results](./showcase_images/ukbb_results.png)
+
+### Interactive Editor Usage Example
+
+![Interactive Editor](./showcase_images/editor.png)
+
 ## Installation
 
 A virtual environment is recommended for this project. Create and activate a virtual environment as follows
