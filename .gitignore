@@ -1,0 +1,14 @@
+# Python working environment related files
+venv/
+__pycache__/
+
+# Notebook working environment files
+*.ipynb_checkpoints
+
+# IDE related files
+.vscode/
+
+# Project structure files
+data/
+out/
+runs/
